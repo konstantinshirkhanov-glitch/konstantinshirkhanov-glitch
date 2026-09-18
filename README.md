@@ -35,7 +35,9 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konstantinshirkhanov-glitch&show_icons=true&theme=tokyonight&hide_border=true" alt="Konstantin's GitHub stats" height="150" />
-</div>
+### 🤝 Connect with Me
+- 💼 **LinkedIn:** [Konstantin Shirkhanov](https://www.linkedin.com/in/konstantin-shirkhanov-4472b0438)
+- 🐦 **X (Twitter):** [@KShirkhano73462](https://x.com/KShirkhano73462)
+- 💬 **Discord:** `kshirkhano`
+
+

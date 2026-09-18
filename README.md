@@ -17,6 +17,8 @@
 - ⚡ **Building on Arc:** Developing a lightweight observability & public latency tracking tool for cross-chain infrastructure.
 - 💬 **Ask me about:** Enterprise networking, Linux administration, telemetry pipelines, and systems programming.
 
+> 💡 **Note on Profile Activity:** The vast majority of my day-to-day infrastructure code, automation, and telemetry tooling resides within private enterprise repositories (internal GitLab / on-premise VCS at ERG). This GitHub profile is dedicated to my open-source explorations, Web3 research, and building publicly in the Arc ecosystem.
+
 ---
 
 ### 🛠 Tech Stack & Tools
